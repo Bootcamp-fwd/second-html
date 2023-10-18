@@ -1,0 +1,12 @@
+    body {
+  display: table-cell;
+  align-items: center;
+  border-style: double;
+  border-radius: 10px;
+  border-color: aqua;
+}
+
+.link-column {
+  display: block;
+  margin-bottom: 10px;
+}
